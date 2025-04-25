@@ -1,0 +1,62 @@
+---
+layout: page
+title: Project
+permalink: /project/
+---
+
+<h1>My AI Teaching Toolkit</h1>
+
+<p>This page showcases my AI-enhanced teaching resources created as part of a faculty development initiative. Dive in to explore how AI can transform your classroom!</p>
+
+<hr>
+
+<section>
+  <h2>📘 Teaching Material on AI</h2>
+  <p>Explore core teaching material on integrating AI into education.</p>
+  <a href="/assets/ai_teaching_toolkit/Teaching_Material_AI_Toolkit.pdf" target="_blank" download>📄 Download Teaching Material (PDF)</a>
+</section>
+
+<hr>
+
+<section>
+  <h2>🎟️ Exit Ticket</h2>
+  <p>Reflect on your learning experience with this short form.</p>
+  <a href="https://forms.gle/your-form-link" target="_blank">📝 Fill Out the Exit Ticket</a>
+</section>
+
+<hr>
+
+<section>
+  <h2>🧠 Quiz</h2>
+  <p>Test your understanding of the AI concepts shared.</p>
+  <a href="https://forms.gle/your-quiz-link" target="_blank">🧪 Take the Quiz</a>
+</section>
+
+<hr>
+
+<section>
+  <h2>🎙️ Podcast</h2>
+  <p>Listen to a podcast reflection on using AI in the classroom.</p>
+  <audio controls>
+    <source src="/assets/ai_teaching_toolkit/my_ai_teaching_podcast.mp3" type="audio/mpeg">
+
+    Your browser does not support the audio element.
+  </audio>
+</section>
+
+<hr>
+
+<section>
+  <h2>🗺️ Literature Mapping Survey</h2>
+  <p>See a summary of current literature on AI in higher education.</p>
+  <a href="/assets/ai_teaching_toolkit/Literature_Mapping_Survey_AI_Ed.pdf" target="_blank" download>📄 Download Literature Survey (PDF)</a>
+</section>
+
+<hr>
+
+<section>
+  <h2>📝 Reflective Note</h2>
+  <p>A personal reflection on how AI has changed my approach to teaching.</p>
+  <a href="/assets/ai_teaching_toolkit/Reflective_Note_AI_Teaching.pdf" target="_blank" download>📄 Download Reflective Note (PDF)</a>
+</section>
+
